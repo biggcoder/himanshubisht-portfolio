@@ -1,0 +1,71 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #161c21;
+    color: #eee9e9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Navbar Styles */
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+    padding: 10px 15px;
+}
+
+/* Section Styles */
+section {
+    padding: 40px 0;
+}
+
+/* About Me Section */
+#about img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #007bff;
+}
+
+/* Portfolio Table */
+table {
+    background-color: white;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+th, td {
+    text-align: center;
+    padding: 10px;
+}
+
+/* Contact Form */
+form {
+    max-width: 600px;
+    margin: auto;
+}
+
+/* Button Styles */
+button:hover {
+    opacity: 0.8;
+    transition: 0.3s;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
